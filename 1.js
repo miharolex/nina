@@ -28,7 +28,7 @@ function sum(a,b)
 
 write(sum(100,200))
 
-var name = 'Nina'
+var name = 'Misha'
 write('hello ' + name);
 
 var i = 4;
@@ -58,7 +58,7 @@ var i = 4;
 //     i+=2;
 // }
 
-for(i=10; i<=15; i+=2)
+for(i=10; i<=10; i+=2)
 {     
     write(i) 
 }
@@ -88,8 +88,6 @@ var arrayOfNumbers = [10, 20, 30, 40];
 // write(arrayOfNumbers);
 // write(arrayOfNumbers[0]);
 // write(arrayOfNumbers[1]);
-// write(arrayOfNumbers[2]);
-// write(arrayOfNumbers[3]);
 
 // arrayOfNumbers.forEach(num => {
 //     write(num * 2);
